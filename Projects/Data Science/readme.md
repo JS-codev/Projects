@@ -11,4 +11,3 @@
         - The reason may be because there are duplicate python.
         - You can find duplicate python with `cmd` > type `where python` > go to the "self-installed" Microsoft Python path and delete it. 
 
-
