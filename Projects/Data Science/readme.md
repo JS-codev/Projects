@@ -11,3 +11,12 @@
         - The reason may be because there are duplicate python.
         - You can find duplicate python with `cmd` > type `where python` > go to the "self-installed" Microsoft Python path and delete it. 
 
+- After python is installed, do the followings:
+    - `pip install numpy`
+    - `pip install scikit-learn`
+    - `pip install pandas`
+    - `pip install tensorflow`
+    - `pip install matplotlib`
+
+
+    
