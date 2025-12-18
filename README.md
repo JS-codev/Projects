@@ -1,4 +1,4 @@
-# Software Engineer / Data Scientist
+# Machine Learning Engineer / Data Scientist
 
 #### Technical Skills: C++, C, Python, SQL, Arduino, JavaScript, HTML, Raspberry pi, Power BI, tableau
 
