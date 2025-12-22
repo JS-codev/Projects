@@ -15,9 +15,4 @@
   - #### [Build Basic solar system simulator without using any game engine](https://github.com/JS-codev/OpenGL/tree/main/Solar%20system)
 
 
-## Traits
-- **Problem solver:** Develop efficient algorithms in leetcode that meet performance requirements (in terms of time and space complexity) like choosing QuickSort over Bubble Sort for better performance
-- **Independable:** Able to work efficiently with minimal supervision.
-- Experienced in Stable diffusion AI & machine learning (Scikit-Learn)
-- **High analytical thinking** (Distinctions in Calculus, Probability & Statistics, and Differential Equations & Series during NYP)
 
