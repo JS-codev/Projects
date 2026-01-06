@@ -1,7 +1,5 @@
 # Data Science
 
-#### This is a collection of all the projects I have learn and practice on.
-
 **To Run this project:**
 - Install [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - Install [python](https://www.python.org/downloads/) 
