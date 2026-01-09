@@ -1,5 +1,4 @@
-## Some Projects that are in here:
-
+## Some example Projects that I have done:
 
 - #### [Data Science on predicting price of used car with Machine Learning (Scikit-learn)](https://github.com/JS-codev/Projects/blob/main/Data%20Science/Practical%20projects/Used%20Car%20Price%20Prediction%20(LinearRegression)/Predict%20the%20price%20of%20a%20used%20car.ipynb)
  
